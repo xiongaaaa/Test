@@ -1,0 +1,4 @@
+﻿  udpserver.cpp
+E:\11\xiong\Project1\src\udpserver\udpserver.cpp(19,11): warning C4244: “初始化”: 从“SOCKET”转换到“int”，可能丢失数据
+E:\11\xiong\Project1\src\udpserver\udpserver.cpp(59,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  udpserver.vcxproj -> E:\11\xiong\Project1\src\udpserver\x64\Debug\udpserver.exe

@@ -1,0 +1,3 @@
+/home/parallels/Linux/Mymuduo/CMakeFiles/mymuduo.dir
+/home/parallels/Linux/Mymuduo/CMakeFiles/edit_cache.dir
+/home/parallels/Linux/Mymuduo/CMakeFiles/rebuild_cache.dir
